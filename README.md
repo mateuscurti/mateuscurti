@@ -6,7 +6,7 @@
 
 💻 Tenho interesse em desenvolvimento de software, automação de fluxos de trabalho (utilizando ferramentas como n8n) e criação de aplicações que resolvam problemas reais e otimizem processos.
 
-🎲 Fora da programação, atuo como Mestre de RPG, explorando sistemas como **D&D** e **Daggerheart**. Também sou um grande entusiasta de jogos no PC, principalmente multiplayer.
+🎲 Fora da programação, atuo como Mestre e Jogador de RPG. Também sou um grande entusiasta de jogos no PC, principalmente multiplayers competitivo.
 
 ---
 
